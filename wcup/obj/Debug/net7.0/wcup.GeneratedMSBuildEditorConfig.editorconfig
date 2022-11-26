@@ -16,20 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\TGDD\source\repos\Github\C_Sharp\wcup
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/TGDD/source/repos/Github/C_Sharp/wcup/Views/HelloWorld/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/TGDD/source/repos/Github/C_Sharp/wcup/Views/HelloWorld/Welcome.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+[C:/Users/TGDD/source/repos/Github/C_Sharp/wcup/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/TGDD/source/repos/Github/C_Sharp/wcup/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/TGDD/source/repos/Github/C_Sharp/wcup/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/TGDD/source/repos/Github/C_Sharp/wcup/Views/Shared/Error.cshtml]

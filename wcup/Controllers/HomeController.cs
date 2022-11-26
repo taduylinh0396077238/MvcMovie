@@ -18,9 +18,22 @@ namespace wcup.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public string Details(int id)
         {
-            return View();
+            if (id == 1)
+            {
+                return "Tunisia   1 : 0   Australia";
+            }
+            else if (id == 2)
+            {
+                return "Pháp   4 : 0   Đan Mạch";
+            }
+            else if (id == 3)
+            {
+                return "ABC   1 : 1   Bồ Đào Nha";
+            }
+            else
+                return "No match found!";
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
